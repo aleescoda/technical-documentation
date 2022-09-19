@@ -3254,3 +3254,343 @@
   tags:
     - Wearable Design
     - Event Production
+    
+- name: District3
+  partnerId: 137
+  default_link: https://district3.world/
+  website: https://district3.world/
+  email: matt@district3.world
+  discord: https://discord.gg/jJmSvBv9Md
+  twitter: https://twitter.com/district3w
+  instagram: https://www.instagram.com/district3w
+  image: /images/partners/district3.png
+  description: We are the destination for Metaverse related activity. We provide transparent and trustworthy services and information for the sector both educational and current affairs. We offer digital land for rent including the full pipeline of related services from delivering exclusive meta-experiences, traditional marketing support to NFT minting. We offer consultation and advice on purchasing land within the crypto eco-system.
+  region: Europe
+  location: United Kingdom
+  languages:
+    - English
+  team_size: Small Studio
+  payments:
+    - Crypto
+    - Wire Transfer
+    - PayPal
+    - Credit Card
+  tags:
+    - Wearable Design
+    - Event Production
+    - Architecture
+    - Land Rental
+    - Consulting
+
+- name: _Dre
+  partnerId: 138
+  default_link: https://www.andrewmerriman.com/
+  website: https://www.andrewmerriman.com/
+  email: contact@andrewmerriman.com
+  linkedin: https://www.linkedin.com/in/andrew-merriman
+  twitter: https://twitter.com/district3w
+  instagram: https://www.instagram.com/dremcgrey/
+  opensea: https://opensea.io/collection/the-one-of-one-shop
+  image: /images/partners/dre.PNG
+  description: Digital and Mechanical design to bridge the Metaverse to our daily lives.
+  region: North America
+  location: Canada
+  languages:
+    - English
+  team_size: Individual
+  payments:
+    - Crypto
+    - PayPal
+  tags:
+    - Wearable Design
+    
+- name: The Ocean Meta
+  partnerId: 139
+  default_link: https://www.theoceanmeta.com/
+  website: https://www.theoceanmeta.com/
+  email: theoceanmeta@gmail.com
+  twitter: https://twitter.com/theoceanmeta
+  discord: https://discord.gg/HQDWqkxym2
+  instagram: https://www.instagram.com/theoceanmeta/
+  youtube: https://www.youtube.com/channel/UCGwu03ekERG3s2kPTCNH0lQ
+  image: /images/partners/theoceanmeta.png
+  description: The Ocean Meta project is onboarding the ocean community into the metaverse. We host ocean themed gallery and educational events. Event Production is available with custom ocean themed builds that can be deployed in Decentraland. The full event production includes featuring your NFT collections, photography, and live video streams during the event. With custom built NFTs, wearables, POAPs and NEATs that can be created for your event.
+  region: North America
+  location: United States
+  languages:
+    - English
+    - Spanish
+    - Hungarian
+    - Ukrainian
+  team_size: Small Studio
+  payments:
+    - Crypto
+    - PayPal
+  pois:
+    - (-36,146)
+  tags:
+    - Event Production
+    - Land Rental
+
+- name: Archiverse Studio
+  partnerId: 140
+  default_link: https://www.artstation.com/archiverse_studios
+  website: https://www.artstation.com/archiverse_studios
+  email: archiverse.studios@gmail.com
+  linkedin: https://www.linkedin.com/in/piernunzio-de-sario-17b107194/
+  twitter: https://twitter.com/Archiverse1
+  discord: https://discord.gg/x7EH4xPY
+  opensea: https://opensea.io/account
+  image: /images/partners/archiversestudio.JPG
+  description: Archiverse Studios’s team is composed of two Architects (Piernunzio Desario, Francesco Ciriello) and an SDK engineer developer (Giovanni Lovecchio), specialists in 3D modeling, 3D Animation and 3D rendering. We love crypto, metaverse and nft world. We believe in Web3 and its potential, and we’d like to build a new world, starting from a small object, up to a building or even an entire neighborhood.Our inspiration comes from a mix between Real-life buildings and Futuristic buildings. We have the technical skills to meet all the needs of our meta-customers for the realization of their scenes. We are working on adding Wearable creation and renting lands to our services in the future. We are excited to take part in this digital revolution, the only limit is creativity…. and triangles.
+  region: Europe
+  location: Italy
+  languages:
+    - English
+    - Italian
+  team_size: Small Studio
+  payments:
+    - Crypto
+    - PayPal
+  pois:
+    - (-95,-21)
+    - (-96,-22)
+    - (19,-1)
+    - (-26,140)
+    - (36,102))
+  tags:
+    - Architecture
+
+- name: Nyankee
+  partnerId: 141
+  default_link: https://lit.link/shiorikawana
+  website: https://lit.link/shiorikawana
+  email: momozy1000@gmail.com
+  linkedin: https://www.linkedin.com/in/piernunzio-de-sario-17b107194/
+  twitter: https://twitter.com/nyankeeDCL
+  discord: https://discord.gg/Vezf2rYnP9
+  instagram: https://www.instagram.com/coronya_shiori/
+  opensea: https://opensea.io/collection/fade-away-bunny-collection
+  image: /images/partners/nyankee.PNG
+  description: Nyankee is Decentraland wearable designer based in Tokyo. Manga artist, influencer IRL, known as Shiori Kawana. Our team brings Japanese manga, anime, and game related culture into metaverse.
+  region: Asia
+  location: Japan
+  languages:
+    - English
+    - Japanese
+  team_size: Small Studio
+  payments:
+    - Crypto
+    - PayPal
+    - Wire Transfer
+    - Credit Card
+  pois:
+  tags:
+    - Wearable Design
+
+- name: GIRA studio
+  partnerId: 142
+  default_link: https://girastudio.com
+  website: https://girastudio.com
+  email: raphael@girastudio.com
+  linkedin: https://www.linkedin.com/company/girastudio/
+  twitter: https://twitter.com/GIRA_studio
+  instagram: https://www.instagram.com/gira__studio/
+  image: /images/partners/girastudio.jpg
+  description: We are a pioneering web3 studio, focused on 3D creations on fashion, architecture and the arts. We set up new rules for immersive experience.
+  region: Europe
+  location: Finland
+  languages:
+    - English
+    - Portuguese
+    - Spanish
+  team_size: Small Studio
+  payments:
+    - Wire Transfer
+  pois:
+  tags:
+    - Wearable Design
+    - Architecture
+
+- name: The Electric Factory SA
+  partnerId: 143
+  default_link: https://theelectricfactory.com/
+  website: https://theelectricfactory.com/
+  email: info@theelectricfactory.com
+  linkedin: https://www.linkedin.com/company/the-electric-factory/
+  instagram: https://www.instagram.com/the_electric_factory/
+  image: /images/partners/theelectricfactory.png
+  description: The Electric Factory is a creative innovation company specialized in offering disruptive solutions to different industries challenges. With almost 20 years in experience design we thrive in creating user experiences that delight with cutting edge design.
+  region: South America
+  location: Uruguay
+  languages:
+    - English
+    - Spanish
+  team_size: Large Studio
+  payments:
+    - Crypto
+    - PayPal
+    - Credit Card
+  pois:
+    - (-4,-66) 
+    - (-96,126)
+  tags:
+    - Wearable Design
+    - Architecture
+    - Event Production
+    - Land Rental
+    - Consulting
+
+- name: Decentraland Property Group
+  partnerId: 144
+  default_link: https://www.decentralandpropertygroup.com
+  website: https://www.decentralandpropertygroup.com
+  email: admin@decentralandpropertygroup.com
+  linkedin: https://www.linkedin.com/company/decentraland-property-group/
+  discord: https://discord.gg/gY25dezZNS
+  twitter: https://twitter.com/DecentralandPG
+  instagram: https://www.instagram.com/decentralandgroup/?igshid=YmMyMTA2M2Y%3D
+  youtube: https://www.youtube.com/channel/UCi0SwxG7ZR00yrcoTGFMP8w/featured
+  image: /images/partners/decentralandpropertygroup.png
+  description: Decentraland Renting Made Easy - Trusted professionals bringing land owners and tenants closer than ever.
+  region: Oceania
+  location: Australia
+  languages:
+    - English
+  team_size: Small Studio
+  payments:
+    - Crypto
+    - PayPal
+    - Credit Card
+  pois:
+  tags:
+    - Land Rental
+
+- name: Blacknode Studio
+  partnerId: 145
+  default_link: https://twitter.com/BlacknodeDCL
+  email: blacknodestudio@gmail.com
+  discord: https://discordapp.com/users/369260521343549451
+  twitter: https://twitter.com/BlacknodeDCL
+  image: /images/partners/blacknode.JPG
+  description: Blacknode studio is a 3d digital studio with big experience in the industry. We create any 3D content, wearables, locations, architecture, animation, rigging, texturing with the highest quality and details.
+  region: North America
+  location: United State
+  languages:
+    - English
+  team_size: Small Studio
+  payments:
+    - Crypto
+    - PayPal
+    - Credit Card
+    - Wire Transfer
+  pois:
+  tags:
+    - Wearable Design
+    - Architecture
+
+- name: Meta Software Factory
+  partnerId: 146
+  website: https://metasoftwarefactory.com/
+  default_link: https://metasoftwarefactory.com/
+  email: info@metasoftwarefactory.com
+  linkedin: https://www.linkedin.com/in/joaquin-pedreno/
+  image: /images/partners/metasoftwarefactory.png
+  description: We help businesses with their presence in the metaverse by creating dream spaces for them.
+  region: Europe
+  location: Spain
+  languages:
+    - English
+    - Spanish
+  team_size: Medium Studio
+  payments:
+    - Crypto
+    - Credit Card
+    - Wire Transfer
+  pois:
+  tags:
+    - Architecture
+
+- name: Metaverse Chief Architects Community
+  partnerId: 147
+  website: https://metaversecac.com/
+  default_link: https://metaversecac.com/
+  email: info@metaversecac.com
+  linkedin: https://www.linkedin.com/in/metaversecac/
+  twitter: https://twitter.com/metaversecac
+  instagram: https://www.instagram.com/metaversecac/
+  discord: https://discordapp.com/users/1008046028269813801 
+  youtube: https://www.youtube.com/channel/UCG_I6qBJSCmRvnlVSHhwbXg/featured
+  opensea: https://opensea.io/metaversecac
+  image: /images/partners/metaversechiefarchitects.PNG
+  description: In order to realize your dreams, our architects, interior architects and designers work together 7 days and 24 hours, and we deliver the most suitable and modern designs to you in a very short time.
+  region: Europe
+  location: Turkey
+  languages:
+    - English
+    - Turkish
+  team_size: Small Studio
+  payments:
+    - Crypto
+    - Credit Card
+    - Wire Transfer
+  pois:
+  tags:
+    - Architecture
+    - Consultant
+    
+- name: SUPERNINA
+  partnerId: 148
+  website: https://supermindstudios.com
+  default_link: https://supermindstudios.com
+  email: olivia@supermindstudios.com
+  twitter: https://twitter.com/superninaglow
+  opensea: https://opensea.io/SUPERNINA
+  image: /images/partners/supernina.png
+  description: We create things to inspire imagination and drive positive change in the world. We aim to innovate with a people first approach in digital and expand the frontiers of human connection - by building next generation web 3 systems, bridging web 2 into more immersive experiences and creating environments where empathy meets economics.
+  region: North America
+  location: Canada
+  languages:
+    - English
+  team_size: Small Studio
+  payments:
+    - Crypto
+    - Credit Card
+    - Wire Transfer
+  pois:
+    - (37,-115)
+  tags:
+    - Wearable Design
+    - Architecture
+    - Event Production
+    - Land Rental
+    - Consulting
+
+- name: vvcryptos
+  partnerId: 149
+  default_link: https://twitter.com/vvcryptos
+  email: vvcryptos@gmail.com
+  linkedin: https://www.linkedin.com/in/ver%C3%B3nica-blanco-313890108/
+  twitter: https://twitter.com/vvcryptos
+  discord: https://discordapp.com/users/829476722445516830
+  instagram: https://www.instagram.com/viciestudio/
+  sketchfab: https://sketchfab.com/viciestudio
+  image: /images/partners/vvcryptos.png
+  description: I like the idea of helping new clients get into the fashion metaverse, a place where you can let your imagination and creativity run wild. I will help you create incredible things.
+  region: South America
+  location: Uruguay
+  languages:
+    - English
+    - Spanish
+  team_size: Individual
+  payments:
+    - Crypto
+    - PayPal
+  tags:
+    - Wearable Design
+    - Architecture
+    - Event Production
+    - Land Rental
+    - Consulting
+
+    
